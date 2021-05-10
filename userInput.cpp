@@ -11,6 +11,7 @@ int main() {
     cin >> age;
 
     cout << first_n << " "<< last_n << " is " << age << " years old.\n" << endl;
+    cout << "Thank You!" << endl;
 
     return 0;
 }
