@@ -7,6 +7,8 @@ int main() {
     cin >> name;
 
     cout << name << endl;
+    cout << "Thank You!" << endl;
+    cout << "Welcome!" << endl;
 
     return 0;
 }
