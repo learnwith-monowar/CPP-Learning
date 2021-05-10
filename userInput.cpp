@@ -12,6 +12,8 @@ int main() {
 
     cout << name << " is " << age << " years old.\n" << endl;
     cout << message << endl;
-
+    cout << "Thank You!" << endl;
+    cout << "Welcome!" << endl;
+    
     return 0;
 }
